@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venkatn427
+- 👋 Hi, I’m @venkatn
 - 👀 I’m interested in building and enhnacing ETL pipelines
 - 🌱 I’m currently learning Could based technologies
 - 💞️ I’m looking to collaborate on Data Engineer/Machine Learning Task
